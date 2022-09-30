@@ -1,0 +1,9 @@
+ç
+ÅC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.csutf-8è
+ÉC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.csutf-8è
+ÉC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.csutf-8ë
+ÖC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.csutf-8£
+óC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8è
+ÉC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.csutf-8ç
+ÅC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.csutf-8ï
+âC:\Users\gayat\OneDrive\Desktop\Sample\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.csutf-8
